@@ -1,2 +1,2 @@
 # Quiz-Application-JAVA
-My version of Java Quiz application from kunaltyagi9 with more life lines and a fixed a few things which were inconvenient
+Java Quiz application with different life lines along with a timer. Do try to solve the quiz and tell me your score
